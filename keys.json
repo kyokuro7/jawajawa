@@ -10,9 +10,11 @@
     {
       "code": "ZETE-QXTU-TT6U-4KML",
       "days": 2,
-      "used": false,
+      "used": true,
       "createdAt": 1773084831005,
-      "createdBy": 6788398885
+      "createdBy": 6788398885,
+      "usedAt": 1773085783065,
+      "usedBy": 8102599290
     }
   ]
 }
