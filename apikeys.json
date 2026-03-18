@@ -9,10 +9,11 @@
   },
   {
     "key": "ZETE-KEY-06BDB6EF",
-    "userId": "",
-    "token": "",
+    "userId": "8102599290",
+    "token": "8658963660:AAH0bSCIsys5gIjL6rtLA9oQu6yCc6j3sPY",
     "expired": 1776469699394,
     "createdAt": "2026-03-18T23:48:19.394Z",
-    "days": 30
+    "days": 30,
+    "activatedAt": "2026-03-18T23:49:12.723Z"
   }
 ]
