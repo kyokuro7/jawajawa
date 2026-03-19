@@ -16,13 +16,5 @@
     "days": 30,
     "activatedAt": "2026-03-18T23:49:12.723Z",
     "lastRenewed": "2026-03-18T23:57:22.593Z"
-  },
-  {
-    "key": "ZETE-KEY-6402306A",
-    "userId": "",
-    "token": "",
-    "expired": 1774571958124,
-    "createdAt": "2026-03-19T00:39:18.124Z",
-    "days": 8
   }
 ]
