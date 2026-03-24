@@ -24,13 +24,5 @@
     "expired": 1776472978511,
     "createdAt": "2026-03-19T00:42:58.511Z",
     "days": 30
-  },
-  {
-    "key": "ZETE-KEY-B633BFCD",
-    "userId": "",
-    "token": "",
-    "expired": 1776567401474,
-    "createdAt": "2026-03-20T02:56:41.474Z",
-    "days": 30
   }
 ]
