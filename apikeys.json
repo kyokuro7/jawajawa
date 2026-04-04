@@ -14,7 +14,9 @@
     "expired": 1775384337971,
     "createdAt": "2026-03-26T10:18:58.003Z",
     "days": 10,
-    "activatedAt": "2026-03-31T07:55:28.384Z"
+    "activatedAt": "2026-03-31T07:55:28.384Z",
+    "notif3d": true,
+    "notif1d": true
   },
   {
     "key": "ZETE-KEY-D4769049",
