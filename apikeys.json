@@ -57,12 +57,13 @@
   },
   {
     "key": "ZETE-KEY-F5E9E992",
-    "userId": "",
+    "userId": "5569573832",
     "token": "8799288859:AAHv97qqh7ijCydQcstl6xCQb8vrhnDDAVE",
     "expired": 1775832416768,
     "createdAt": "2026-04-07T14:46:56.769Z",
     "createdBy": "6788398885",
     "addedManually": true,
-    "days": 3
+    "days": 3,
+    "activatedAt": "2026-04-07T14:50:47.512Z"
   }
 ]
