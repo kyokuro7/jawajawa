@@ -24,7 +24,8 @@
     "token": "",
     "expired": 1779162168803,
     "createdAt": "2026-04-04T03:42:48.803Z",
-    "days": 9999
+    "days": 9999,
+    "notif3d": true
   },
   {
     "key": "ZETE-KEY-EDAF1FE3",
